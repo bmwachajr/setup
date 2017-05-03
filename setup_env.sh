@@ -1,4 +1,4 @@
-#! /bin/env bash
+#! /bin/bash
 
 javac -version
 if [ $? -ne 0 ]; then
