@@ -18,7 +18,6 @@ declare -a names=(
     "heroku"
     "sqlite"
     "node"
-    "postgres"
     "zookeeper"
     "kubernetes-cli"
     "tree"
